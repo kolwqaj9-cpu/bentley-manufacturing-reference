@@ -42,3 +42,11 @@ Preserved shop record for bentleymfg.com. The former plant is not quoting from t
 | 4 | [Short-Run Shop Work](https://bentleymfg.com/articles/short-run-metal-fabrication.html) | short run metal fabrication |
 
 See the full index at [bentleymfg.com](https://bentleymfg.com/).
+
+## Service pages maintained with this archive
+
+The reference notes above support the production work documented on the shop's own service pages:
+
+* **[Gasket Cutting Service — Specification Guide](https://bentleymfg.com/services/gasket-cutting-service.html)** — Buyer's guide to gasket cutting: material and temper, steel-rule die, rotary, waterjet, laser, kerf, edge quality, tolerance, burr, and print callouts.
+* **[High Temperature Gasket Material — Specification Guide](https://bentleymfg.com/services/high-temperature-gasket-material.html)** — How to select a high temperature gasket material: continuous vs peak temperature, compression set, creep, thermal expansion, oxidation, and material compar
+* **[Spiral Wound Gasket — Specification Guide](https://bentleymfg.com/services/spiral-wound-gasket.html)** — Specify spiral wound gaskets: winding metal and filler, inner and outer rings, ASME B16.20 dimensions, seating stress, bolt load, compression stop, and ins
